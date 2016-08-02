@@ -8,6 +8,9 @@ div {
   border: 2px solid #d00000;
 }
 
+h1 {
+  color:red;
+}
 p{
   color: white;
   font-weight: bold;
