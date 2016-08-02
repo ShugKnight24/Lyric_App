@@ -1,0 +1,15 @@
+body {
+  background: black;
+  margin: 60px;
+  box-sizing: border-box;
+}
+
+div {
+  border: 2px solid #d00000;
+}
+
+p{
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
